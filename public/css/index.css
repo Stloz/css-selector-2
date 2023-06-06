@@ -4,7 +4,7 @@
 }
 
 .lesson-four-task-two h1:hover {
-  color: green;
+  background: green;
 }
 
 .lesson-four-task-three .link:visited {
